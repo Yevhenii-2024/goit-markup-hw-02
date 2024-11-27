@@ -25,6 +25,10 @@ a {
   text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 .list-nav {
   color: #2e2f42;
   font-weight: 500;
